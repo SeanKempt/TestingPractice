@@ -1,0 +1,22 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "practice project for TDD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanKempt/TestingPractice.git"
+  },
+  "author": "Sean Kempt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanKempt/TestingPractice/issues"
+  },
+  "homepage": "https://github.com/SeanKempt/TestingPractice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
